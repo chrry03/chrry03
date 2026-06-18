@@ -9,6 +9,26 @@
 <br/>
 
 <p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/chrry03/chrry03/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/chrry03/chrry03/output/pacman-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/chrry03/chrry03/output/pacman-contribution-graph.svg"
+      width="95%"
+      alt="Pac-Man Contribution Graph"
+    />
+  </picture>
+</p>
+
+<br/>
+
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=chrry03&show_icons=true&hide_border=true&bg_color=FFF7F5&title_color=FF8FA3&text_color=6E5965&icon_color=FF9E80"
     width="46%"
